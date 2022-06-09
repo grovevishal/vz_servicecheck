@@ -1,7 +1,7 @@
 # Class: name
 #
 #
-class vz_demo (
+class vz_servicecheck (
   String $demo_content
 ) {
   # resources
